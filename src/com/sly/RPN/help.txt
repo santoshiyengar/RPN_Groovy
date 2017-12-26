@@ -1,0 +1,23 @@
+
+******************************* Version 1.0 RPN Calculator...******************************
+
+    This is a RPN Calculator, you need to enter the Expression in RPN form.
+        E.g. 3 2 + for it to be added.
+
+    Featured operations: +, -, *, /, ^, %, !
+
+    Binary Operators:
+        "+" Addition            "-" Subtraction
+        "*" Multiplication      "/" Division
+        "^" Exponentiation'
+
+    Unary Operators:
+        "%" Percentage          "!" Factorial
+
+    NOTE:
+        Ensure that every operand is seperated by a space.
+        Negative numbers are not valid Inputs
+        Type q to quit the calculator
+        Type h for help
+
+******************************************************************************************
