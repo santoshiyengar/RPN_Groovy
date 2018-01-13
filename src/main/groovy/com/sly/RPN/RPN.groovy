@@ -1,5 +1,3 @@
-import RPNMathClass
-
 class RPNClass{
 
     def errorFlag = false
